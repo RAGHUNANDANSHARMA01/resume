@@ -1,2 +1,2 @@
 # resume
-i created resume using html
+i created resume using html and css
